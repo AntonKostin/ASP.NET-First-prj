@@ -2,10 +2,10 @@
 {
     public enum RaceCategory
     {
-        Marthon,
+        Marathon,
         Ultra,
         FiveK,
         TenK,
-        HalfMarthon
+        HalfMarathon
     }
 }
